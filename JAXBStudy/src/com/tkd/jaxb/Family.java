@@ -41,7 +41,6 @@ public class Family {
 		this.member = member;
 	}
 
-	//To test my comments
 	@Override
 	public String toString() {
 		return "Family [name=" + name + ", size=" + size + ", members=" + member + "]";
