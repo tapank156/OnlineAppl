@@ -8,7 +8,6 @@ import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlElementWrapper;
 import javax.xml.bind.annotation.XmlRootElement;
 
-//Add comments
 @XmlRootElement(name = "family")
 public class Family {	
 	private List<Person> member;
@@ -42,9 +41,9 @@ public class Family {
 		this.member = member;
 	}
 
+	//To test my comments
 	@Override
 	public String toString() {
 		return "Family [name=" + name + ", size=" + size + ", members=" + member + "]";
-	}
-	
+	}	
 }
