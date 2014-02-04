@@ -40,7 +40,7 @@ public class JAXBObject2XML {
 		family.setSize(members.size());
 		family.setMember(members);
 	  	try { 
-		  	File file = new File("file1.xml");
+		  	File file = new File("file4.xml");
 		  	JAXBContext context = JAXBContext.newInstance(Family.class);
 		  	Marshaller marshaller = context.createMarshaller(); 
 		  	marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, Boolean.TRUE);
