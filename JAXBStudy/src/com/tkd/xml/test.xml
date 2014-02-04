@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p:employee xmlns:p="http://myprojects.net/xsd/TestScheme"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://myprojects.net/xsd/TestScheme test.xsd ">
+	<p:firstname>p:firstname</p:firstname>
+	<p:lastname>p:lastname</p:lastname>
+</p:employee>
