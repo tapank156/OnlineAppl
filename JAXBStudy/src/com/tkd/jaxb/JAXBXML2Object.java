@@ -4,7 +4,7 @@ import java.io.File;
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
 import javax.xml.bind.Unmarshaller;
-
+//any comments
 public class JAXBXML2Object {
 	public static void main(String[] args) {
 		try {
