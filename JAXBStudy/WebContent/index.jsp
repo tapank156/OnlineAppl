@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<%Thread.sleep(5000); %>
 Running...
 </body>
 </html>
