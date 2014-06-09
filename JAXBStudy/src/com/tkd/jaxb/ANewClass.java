@@ -19,5 +19,9 @@ public class ANewClass {
 		super();
 		this.name = name;
 		this.salary = salary;
+	}
+	@Override
+	public String toString() {
+		return "ANewClass [name=" + name + ", salary=" + salary + "]";
 	}	
 }
