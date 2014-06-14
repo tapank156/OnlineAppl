@@ -1,5 +1,7 @@
 package com.tkd.jaxb;
 
+/*Just a comment */
+
 public class ANewClass {
 	private String name;
 	private int salary;
