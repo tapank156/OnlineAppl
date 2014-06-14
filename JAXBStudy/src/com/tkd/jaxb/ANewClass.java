@@ -1,4 +1,3 @@
-
 package com.tkd.jaxb;
 
 /*Just a comment */
