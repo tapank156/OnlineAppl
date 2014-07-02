@@ -1,5 +1,6 @@
 package com.tkd.jaxb;
 
+//added through web
 public class ANewClass {
 	private String name;
 	private int salary;
