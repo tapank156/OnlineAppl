@@ -1,6 +1,6 @@
 package com.tkd.jaxb;
 
-//added through web 2nd time
+//added through web 1st time
 public class ANewClass {
 	private String name;
 	private int salary;
