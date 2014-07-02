@@ -25,4 +25,8 @@ public class ANewClass {
 	public String toString() {
 		return "ANewClass [name=" + name + ", salary=" + salary + "]";
 	}	
+
+	public static void main(String[] args){
+		//anything added before pull
+	}
 }
