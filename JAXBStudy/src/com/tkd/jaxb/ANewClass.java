@@ -27,11 +27,8 @@ public class ANewClass {
 	}	
 
 	public static void main(String[] args){
-		//anything added before pulltwo 1 
-		//anything added before pulltwo 11 
-		//anything added before pulltwo 22
-		//anything added before pulltwo 2
-		//anything added before pulltwo 3
-		//anything added before pulltwo 33
+		//anything1 added before pulltwo 1 
+		//anything4 added before pulltwo 2
+		//anything5 added before pulltwo 3
 	}
 }
