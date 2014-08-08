@@ -28,7 +28,7 @@ public class ANewClass {
 
 	public static void main(String[] args){
 		//anything1 added before pulltwo 1 
-		//anything2 added before pulltwo 2
-		//anything3 added before pulltwo 3
+		//anything4 added before pulltwo 2
+		//anything5 added before pulltwo 3
 	}
 }
