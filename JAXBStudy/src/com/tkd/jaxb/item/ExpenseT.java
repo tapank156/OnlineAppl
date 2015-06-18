@@ -90,6 +90,7 @@ public class ExpenseT {
      *     
      */
     public void setItems(ItemListT value) {
+        System.out.print("Test changes sin OL1");
         this.items = value;
     }
 }
